@@ -12,6 +12,8 @@ pandas = "*"
 seaborn = "*"
 matplotlib = "*"
 scipy = "*"
+sklearn = "*"
+missingno = "*"
 
 [requires]
 python_version = "3.6"
